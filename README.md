@@ -1,27 +1,81 @@
-# Hi — I’m Surya 👋
-Full-stack developer building thoughtful, production-ready web and mobile apps. I’m currently a B.Tech candidate at IIITDM Kancheepuram (Class of 2026) and have delivered end-to-end products — from college websites to AI-enhanced hiring tools.
+<h1 align="center">Hi 👋, I'm Surya Sri Rama Murthy</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Problem Solver | Innovator</h3>
 
-## What I build
-I design and ship full-stack applications with a focus on clean UI, scalable APIs, and pragmatic architecture. Recent work ranges from an enterprise ATS with AI resume parsing to mobile apps with real-time location features.
-
-## Notable projects
-**HireNexa (ATS)** — Enterprise application tracking system with recruiter & admin workflows; Next.js, TypeScript, React, Tailwind, Express, MongoDB, Supabase, Google Gemini (AI).  
-**GetIt** — Hiring & interview-feedback platform combining recruiter dashboards and AI-driven candidate insights; Next.js, TypeScript, Tailwind, Firebase, AI integrations.  
-**Geo-Location App** — Mobile app with secure auth, role-based access, and live location features; React Native (Expo), TypeScript, Firebase.  
-**Health & Fitness App** — Cross-platform app for habit tracking and social groups; React Native, Expo, Express, MongoDB, Firebase.  
-**IIITDM Websites** — Lead developer for four official institute sites (CSE, Mechanical, Placement, System Coding Club) and contributor to the Developers Club site — delivered interactive, responsive college platforms.
-
-## Tech stack
-Next.js · React · TypeScript · Node.js · Express · MongoDB · Firebase · Tailwind CSS · React Native (Expo) · Supabase · Docker · Git/GitHub
-
-## Achievements
-First place — IIITDM coding contest. Top-intern award (recognition for outstanding performance). Multiple top-5 finishes in college hackathons.
-
-## How to reach me
-Email: suryasriramamurthy2003@gmail.com  
-LinkedIn: https://www.linkedin.com/in/surya-sri-rama-murthy/  
-GitHub: https://github.com/sriram0620
+<p align="center">
+  <img src="gif.gif" alt="Coding Animation" width="600"/>
+</p>
 
 ---
 
-*Want to collaborate or see the code? Check my pinned repos below or send a message — I reply quickly.*
+## 🚀 About Me
+🎓 I’m a **B.Tech Computer Science & Engineering student** at **IIITDM Kancheepuram, Chennai (2022–2026)**.  
+💻 I love building **scalable full-stack applications**, **real-time systems**, and **AI-powered solutions**.  
+⚡ With hands-on experience as an **SDE Intern at Swift AI**, I specialize in **high-performance backend systems** and **interactive frontends**.  
+🏆 Achievements include winning **coding contests**, securing **top hackathon positions**, and being recognized with the **Top Intern Award** (MacBook Air M4).  
+
+---
+
+## 🔧 Technologies & Skills
+
+### 💻 Languages
+- Python | C | C++ | JavaScript | TypeScript
+
+### 🌐 Web & Mobile Development
+- Next.js | React.js | React Native (Expo) | Node.js | Express.js | Tailwind CSS | MERN Stack
+
+### 🗄️ Databases
+- MySQL | MongoDB | PostgreSQL | Firebase | Supabase
+
+### 🔒 Authentication & Security
+- JWT | Clerk | Auth0
+
+### 🛠️ Tools & Platforms
+- Git | GitHub | Docker  
+
+---
+
+## 💼 Experience
+
+**Software Development Engineer Intern @ Swift AI (Jan 2025 – Sep 2025)**  
+- Built a **real-time infrastructure monitoring platform** for IBM with anomaly detection & alerting.  
+- Designed resilient backends with **API batching, caching, chunked streaming, circuit breakers & rate-limiting**.  
+- Optimized frontend performance using **Redux intelligent state management**.  
+- Delivered dashboards comparable to industry-leading observability tools.  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [HireNexa – Enterprise ATS](https://hirenexa.io/)
+- Full-stack **Application Tracking System** for recruiters, admins, and candidates.  
+- Tech: Next.js, TypeScript, React, TailwindCSS, Supabase, MongoDB, Express.js.  
+- Integrated **Google Gemini AI** for **resume parsing & insights**.  
+
+### 🔹 Health & Fitness Mobile App
+- Cross-platform app with **React Native (Expo)**, Express.js, MongoDB, Firebase.  
+- Features: Authentication, habit tracking (workouts, sleep, meditation, recipes), social communities, and challenges.  
+
+### 🔹 [College Websites (Lead Developer)](https://devclub.iiitdm.ac.in/team)
+- Developed **5 official websites** for IIITDM (CSE, Mechanical, Placement Cell, Dev Club, System Coding Club).  
+- Clean UI, responsive design, and widely used across the institution.  
+
+---
+
+## 🏆 Achievements
+- 🥇 **First Place – IIITDM Coding Contest**  
+- 🥇 **Top Intern Award – Swift AI (MacBook Air M4)**  
+- 🥈 **Secured Top 5 positions in 5+ Hackathons** among hundreds of teams.  
+- 🚀 Delivered **end-to-end MERN applications** with robust performance.  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/surya-sri-rama-murthy/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://github.com/sriram0620" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" width="40" /></a>
+<a href="mailto:suryasriramamurthy2003@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" /></a>
+</p>
+
+---
+
+⭐️ From [sriram0620](https://github.com/sriram0620)
