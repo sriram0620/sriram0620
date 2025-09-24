@@ -1,7 +1,5 @@
 <div align="center">
 
-![Coding](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gif-A0U6zGbN0OaRpz3H1xK4VlpMS8Ibdn.gif)
-
 # **Surya Sri Rama Murthy** 
 ### Full-Stack Developer | Problem Solver | Innovation Enthusiast
 
@@ -14,11 +12,26 @@
 
 ## 💼 Experience
 
+<div align="left">
+<table>
+<tr>
+<td width="70%">
+
 **🏢 Software Development Engineer Intern** | *Swift AI* | *Jan 2025 - Sep 2025*
 - Built **real-time infrastructure monitoring platform** for IBM with live metrics & anomaly detection
 - Implemented **resilient backend** with API batching, caching, circuit-breaker patterns
 - Optimized frontend using **Redux** for intelligent state management
 - **🏆 Top Intern Award:** Received MacBook Air M4 for outstanding performance
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gif-A0U6zGbN0OaRpz3H1xK4VlpMS8Ibdn.gif" width="200" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 🚀 Key Projects
 
