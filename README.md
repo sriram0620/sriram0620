@@ -1,81 +1,195 @@
-<h1 align="center">Hi 👋, I'm Surya Sri Rama Murthy</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Problem Solver | Innovator</h3>
+<div align="center">
 
-<p align="center">
-  <img src="gif.gif" alt="Coding Animation" width="600"/>
-</p>
+![Coding GIF](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gif-A0U6zGbN0OaRpz3H1xK4VlpMS8Ibdn.gif)
 
----
+# 👋 Hi there, I'm **Surya Sri Rama Murthy** 
 
-## 🚀 About Me
-🎓 I’m a **B.Tech Computer Science & Engineering student** at **IIITDM Kancheepuram, Chennai (2022–2026)**.  
-💻 I love building **scalable full-stack applications**, **real-time systems**, and **AI-powered solutions**.  
-⚡ With hands-on experience as an **SDE Intern at Swift AI**, I specialize in **high-performance backend systems** and **interactive frontends**.  
-🏆 Achievements include winning **coding contests**, securing **top hackathon positions**, and being recognized with the **Top Intern Award** (MacBook Air M4).  
+### 🚀 Full-Stack Developer | 🎯 Problem Solver | 💡 Innovation Enthusiast
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-sri-rama-murthy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rsuryasriramamurthy2003@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919494351565)
 
-## 🔧 Technologies & Skills
-
-### 💻 Languages
-- Python | C | C++ | JavaScript | TypeScript
-
-### 🌐 Web & Mobile Development
-- Next.js | React.js | React Native (Expo) | Node.js | Express.js | Tailwind CSS | MERN Stack
-
-### 🗄️ Databases
-- MySQL | MongoDB | PostgreSQL | Firebase | Supabase
-
-### 🔒 Authentication & Security
-- JWT | Clerk | Auth0
-
-### 🛠️ Tools & Platforms
-- Git | GitHub | Docker  
+</div>
 
 ---
 
-## 💼 Experience
+## 🎓 **About Me**
 
-**Software Development Engineer Intern @ Swift AI (Jan 2025 – Sep 2025)**  
-- Built a **real-time infrastructure monitoring platform** for IBM with anomaly detection & alerting.  
-- Designed resilient backends with **API batching, caching, chunked streaming, circuit breakers & rate-limiting**.  
-- Optimized frontend performance using **Redux intelligent state management**.  
-- Delivered dashboards comparable to industry-leading observability tools.  
+> *Passionate Computer Science student at IIITDM Chennai with a proven track record of building scalable applications and winning competitive programming contests.*
 
----
-
-## 📂 Featured Projects
-
-### 🔹 [HireNexa – Enterprise ATS](https://hirenexa.io/)
-- Full-stack **Application Tracking System** for recruiters, admins, and candidates.  
-- Tech: Next.js, TypeScript, React, TailwindCSS, Supabase, MongoDB, Express.js.  
-- Integrated **Google Gemini AI** for **resume parsing & insights**.  
-
-### 🔹 Health & Fitness Mobile App
-- Cross-platform app with **React Native (Expo)**, Express.js, MongoDB, Firebase.  
-- Features: Authentication, habit tracking (workouts, sleep, meditation, recipes), social communities, and challenges.  
-
-### 🔹 [College Websites (Lead Developer)](https://devclub.iiitdm.ac.in/team)
-- Developed **5 official websites** for IIITDM (CSE, Mechanical, Placement Cell, Dev Club, System Coding Club).  
-- Clean UI, responsive design, and widely used across the institution.  
+🔹 **Current Role:** Software Development Engineer Intern at **Swift AI**  
+🔹 **Education:** B.Tech in Computer Science & Engineering (2022-2026)  
+🔹 **Location:** Chennai, Tamil Nadu, India  
+🔹 **Specialization:** Full-Stack Development, System Architecture, AI Integration  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **First Place – IIITDM Coding Contest**  
-- 🥇 **Top Intern Award – Swift AI (MacBook Air M4)**  
-- 🥈 **Secured Top 5 positions in 5+ Hackathons** among hundreds of teams.  
-- 🚀 Delivered **end-to-end MERN applications** with robust performance.  
+## 💼 **Professional Experience**
+
+### 🏢 **Software Development Engineer Intern** | *Swift AI* 
+**Jan 2025 - Sep 2025**
+
+🎯 **Key Achievements:**
+- 🔧 Developed **real-time infrastructure monitoring platform** for IBM with live metrics & anomaly detection
+- ⚡ Implemented **resilient backend architecture** with API batching, caching, and circuit-breaker patterns
+- 🎨 Optimized frontend performance using **Redux** for intelligent state management
+- 📊 Delivered **real-time dashboards** comparable to modern observability tools
+- 🏆 **Top Intern Award:** Received MacBook Air M4 for outstanding performance
+
+### 🌟 **Full-Stack Developer** | *EduStation*
+**Nov 2023 - Jan 2024**
+
+- 🛠️ Built comprehensive **Task Management System** with user authentication
+- 📅 Integrated calendar scheduling and deadline reminder features
+- 💻 Mastered full-stack development from HTML/CSS to Node.js/MongoDB
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/surya-sri-rama-murthy/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://github.com/sriram0620" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" width="40" /></a>
-<a href="mailto:suryasriramamurthy2003@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" /></a>
-</p>
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+### 🎯 **HireNexa - Enterprise ATS**
+*April 2025 - May 2025*
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
+
+**Enterprise-grade Application Tracking System used by companies for end-to-end hiring**
+- 🔐 Secure authentication & storage via **Supabase**
+- 🤖 **Google Gemini AI** integration for resume parsing
+- 📱 Responsive design with **TailwindCSS**
+- ⚡ Scalable data handling with **Express.js**
 
 ---
 
-⭐️ From [sriram0620](https://github.com/sriram0620)
+### 💪 **Health & Fitness Mobile App**
+*June 2025 - July 2025*
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
+
+**Full-stack mobile application for comprehensive health tracking**
+- 🏃‍♂️ Habit tracking (workouts, sleep, meditation, recipes)
+- 👥 Social features: groups, communities, challenges
+- 🔄 Real-time data synchronization
+- 📱 Cross-platform performance optimization
+
+</div>
+
+---
+
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend Technologies**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Backend Technologies**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Authentication & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+| 🥇 **Achievement** | 📝 **Description** |
+|:---|:---|
+| 🏆 **First Place - Coding Contest** | Won at IIITDM Kancheepuram among hundreds of participants |
+| 👨‍💻 **Lead Developer** | Built 5 official college websites (CSE Dept, Mechanical Dept, Placement Cell, Dev Club, System Coding Club) |
+| 🚀 **Hackathon Champion** | Top 5 positions in 5+ hackathons with hundreds of competing teams |
+| 💻 **Top Intern Award** | Received MacBook Air M4 for exceptional performance at Swift AI |
+| 📜 **Certifications** | JP Morgan Software Engineering, Accenture Data Analytics, NPTEL Python |
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 **What I'm Currently Working On**
+
+- 🔭 Building scalable infrastructure monitoring solutions at **Swift AI**
+- 🌱 Exploring advanced **AI/ML integration** in web applications
+- 👯 Contributing to **open-source projects**
+- 🤔 Learning **cloud architecture** and **DevOps practices**
+- 💬 Mentoring junior developers in **full-stack development**
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center">
+
+**I'm always excited to collaborate on innovative projects and discuss technology!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-sri-rama-murthy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rsuryasriramamurthy2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+### 💡 *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+
+**Thank you for visiting my profile! 🚀**
+
+</div>
