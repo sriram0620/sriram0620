@@ -35,20 +35,57 @@
 
 ## 🚀 Key Projects
 
+**🏢 IBM Infrastructure Monitoring Platform** | *Jan-Sep 2025*  
+Real-time observability platform with live metrics, anomaly detection, and proactive alerting. Built resilient backend with **API batching**, **caching**, **circuit-breaker patterns** using modern architecture.
+
 **🎯 HireNexa - Enterprise ATS** | *Apr-May 2025*  
 Enterprise Application Tracking System with **Supabase** auth, **Google Gemini AI** resume parsing, **Next.js/TypeScript** frontend, and **MongoDB** backend.
 
 **💪 Health & Fitness Mobile App** | *Jun-Jul 2025*  
 Full-stack **React Native** app with habit tracking, social features, and real-time sync using **Firebase** and **Express.js**.
 
+**🔍 GetIt - Hiring & Interview Platform** | *2025*  
+Hiring & interview-feedback platform combining recruiter dashboards and AI-driven candidate insights using **Next.js**, **TypeScript**, **Tailwind**, **Firebase**, **AI integrations**.
+
+**📍 Geo-Location App** | *2025*  
+Mobile app with secure auth, role-based access, and live location features built with **React Native (Expo)**, **TypeScript**, **Firebase**.
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript • C++ • C  
-**Frontend:** Next.js • React • React Native • TailwindCSS • Redux  
-**Backend:** Node.js • Express.js • MERN Stack  
-**Databases:** MongoDB • PostgreSQL • MySQL • Firebase • Supabase  
-**Auth:** JWT • Clerk • Auth0  
-**Tools:** Git/GitHub • Docker
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Auth
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
 
 ## 🏆 Achievements
 
